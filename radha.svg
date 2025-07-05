@@ -1,0 +1,17 @@
+<svg viewBox="0 0 200 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simple depiction of Rhada Golackananda -->
+  <rect width="100%" height="100%" fill="#fffbea"/>
+  <!-- Head -->
+  <circle cx="100" cy="70" r="40" fill="#ffe4e1" stroke="#d2691e" stroke-width="3"/>
+  <!-- Eyes -->
+  <circle cx="85" cy="60" r="5" fill="#000"/>
+  <circle cx="115" cy="60" r="5" fill="#000"/>
+  <!-- Smile -->
+  <path d="M85 80 q15 20 30 0" stroke="#000" stroke-width="3" fill="none"/>
+  <!-- Dress -->
+  <ellipse cx="100" cy="200" rx="60" ry="90" fill="#ffc0cb" stroke="#d2691e" stroke-width="3"/>
+  <!-- Arms -->
+  <line x1="40" y1="150" x2="160" y2="150" stroke="#d2691e" stroke-width="10"/>
+  <!-- Decorative head piece -->
+  <polygon points="100,20 120,40 80,40" fill="gold"/>
+</svg>
